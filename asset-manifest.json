@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Talk_fusion/static/css/main.4f412280.css",
+    "main.js": "/Talk_fusion/static/js/main.09029035.js",
+    "static/js/787.54a9fe42.chunk.js": "/Talk_fusion/static/js/787.54a9fe42.chunk.js",
+    "static/media/bot.png": "/Talk_fusion/static/media/bot.1df859599edb2edcd367.png",
+    "static/media/logo.png": "/Talk_fusion/static/media/logo.0e49d1750e1e224ad8de.png",
+    "static/media/logo.svg": "/Talk_fusion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Talk_fusion/index.html",
+    "main.4f412280.css.map": "/Talk_fusion/static/css/main.4f412280.css.map",
+    "main.09029035.js.map": "/Talk_fusion/static/js/main.09029035.js.map",
+    "787.54a9fe42.chunk.js.map": "/Talk_fusion/static/js/787.54a9fe42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f412280.css",
+    "static/js/main.09029035.js"
+  ]
+}
